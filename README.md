@@ -21,3 +21,5 @@ Programa para generación de las 256 reglas de los autómatas de 1D.
 </p>
 
 <p align = "center" > Ejemplo de regla 94, desde cmd. </p>
+
+<a href = "https://elife-asu.github.io/wss-modules/modules/1-1d-cellular-automata/"> Generador online. </a> :computer:
