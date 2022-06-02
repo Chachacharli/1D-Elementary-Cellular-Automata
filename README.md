@@ -10,5 +10,14 @@ Programa para generación de las 256 reglas de los autómatas de 1D.
 </p>
 
 <p align="center">
-  <img src="Img/ejemplo.svg" width="640" title="regla 30">
+  <img src="Img/ejemplo2.png" width="640" title="regla 126">
 </p>
+
+<p align = "center" > Ejemplo de regla 126 </p>
+
+# Captura del código. 
+<p align="center">
+  <img src="Img/rule94.PNG" width="640" title="regla 30">
+</p>
+
+<p align = "center" > Ejemplo de regla 94, desde cmd. </p>
